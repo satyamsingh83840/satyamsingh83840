@@ -1,21 +1,21 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,35:064e3b,70:0891b2,100:312e81&text=SATYAM%20KUMAR&fontColor=ffffff&fontSize=58&fontAlignY=40&desc=FULL%20STACK%20ENGINEER%20%20%7C%20%20BACKEND%20%20%7C%20%20GENAI%20%20%7C%20%20DEVOPS&descSize=14&descAlignY=61&animation=fadeIn" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:030712,30:052e2b,65:064e3b,100:0e7490&text=SATYAM%20KUMAR&fontColor=ecfdf5&fontSize=58&fontAlignY=40&desc=SOFTWARE%20ENGINEER%20%20%7C%20%20FULL%20STACK%20%20%7C%20%20BACKEND%20%20%7C%20%20GENAI&descSize=13&descAlignY=63&animation=fadeIn" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=4ADE80&center=true&vCenter=true&width=800&lines=Architecting+Scalable+Backend+Systems;Building+Modern+Full+Stack+Applications;Exploring+Generative+AI+%26+Intelligent+Agents;Engineering+Cloud+Native+Infrastructure;Turning+Ideas+Into+Production+Ready+Software" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=4ADE80&center=true&vCenter=true&width=750&lines=Building+Scalable+Backend+Systems;Engineering+Modern+Full+Stack+Applications;Exploring+Generative+AI+%26+AI+Agents;Automating+Infrastructure+with+DevOps;Turning+Ideas+Into+Production+Ready+Software" />
 
 <br/><br/>
 
-<a href="https://singhsatyam.online/"><img src="https://img.shields.io/badge/PORTFOLIO-00D084?style=for-the-badge&logo=vercel&logoColor=black" /></a>
-<a href="https://github.com/satyamsingh83840"><img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/satyam-kumar-0a625143a/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://x.com/devsatyam823"><img src="https://img.shields.io/badge/FOLLOW_ON_X-111111?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://singhsatyam.online/"><img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-4ADE80?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+<a href="https://github.com/satyamsingh83840"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-161B22?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/satyam-kumar-0a625143a/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/devsatyam823"><img src="https://img.shields.io/badge/X-FOLLOW-111111?style=for-the-badge&logo=x&logoColor=white" /></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=satyamsingh83840&label=PROFILE+VIEWS&color=00D084&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=satyamsingh83840&label=PROFILE+VIEWS&color=4ade80&style=flat-square" />
 
 </div>
 
@@ -23,27 +23,32 @@
 
 <div align="center">
 
-## ◈ &nbsp; ABOUT ME
+## `01` — THE DEVELOPER
 
-### Engineering Beyond the Interface.
+### Building beyond the interface.
 
 </div>
 
-I'm **Satyam Kumar**, a Full Stack Developer passionate about building modern applications, scalable backend architectures, and intelligent software.
+I'm **Satyam Kumar**, a Full Stack Developer passionate about engineering modern software, scalable backend architectures, and intelligent applications.
 
-I enjoy understanding how systems work under the hood — from API architecture and database optimization to cloud infrastructure and AI-powered automation.
+I enjoy solving engineering problems across the stack — from designing APIs and database systems to building AI-powered applications and automating cloud infrastructure.
+
+My engineering philosophy is simple:
+
+**Understand the problem. Design the system. Write clean code. Build for scale.**
 
 <details open>
-<summary><b>⚡ What I Focus On</b></summary>
+<summary><b>⚡ Engineering Interests</b></summary>
 
 <br/>
 
-| Focus | What I Build |
+| Area | Focus |
 |:---|:---|
-| Backend Engineering | Scalable APIs, authentication, system architecture |
-| Full Stack Development | Modern, responsive web applications |
+| Backend Engineering | API architecture, authentication, system design |
+| Full Stack Development | Modern web applications and responsive interfaces |
 | Generative AI | LLM applications, AI agents, intelligent workflows |
-| DevOps & Cloud | Containerization, CI/CD, infrastructure automation |
+| DevOps & Cloud | Docker, Kubernetes, CI/CD, infrastructure automation |
+| Database Engineering | Data modeling, PostgreSQL, MongoDB, Redis |
 
 </details>
 
@@ -51,9 +56,9 @@ I enjoy understanding how systems work under the hood — from API architecture 
 
 <div align="center">
 
-## ◈ &nbsp; TECHNOLOGY ECOSYSTEM
+## `02` — TECHNOLOGY STACK
 
-*Tools and technologies I use to turn ideas into software.*
+*The tools behind my engineering workflow.*
 
 </div>
 
@@ -63,7 +68,7 @@ I enjoy understanding how systems work under the hood — from API architecture 
 
 <div align="center">
 
-### `01` — LANGUAGES
+### ◈ PROGRAMMING
 
 <img src="https://skillicons.dev/icons?i=js,ts,python,cpp&theme=dark" />
 
@@ -74,7 +79,7 @@ I enjoy understanding how systems work under the hood — from API architecture 
 
 <div align="center">
 
-### `02` — FRONTEND
+### ◈ FRONTEND
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" />
 
@@ -87,7 +92,7 @@ I enjoy understanding how systems work under the hood — from API architecture 
 
 <div align="center">
 
-### `03` — BACKEND
+### ◈ BACKEND
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark" />
 
@@ -102,7 +107,7 @@ I enjoy understanding how systems work under the hood — from API architecture 
 
 <div align="center">
 
-### `04` — DATABASES
+### ◈ DATABASES
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis&theme=dark" />
 
@@ -115,7 +120,7 @@ I enjoy understanding how systems work under the hood — from API architecture 
 
 <div align="center">
 
-### `05` — DEVOPS & CLOUD
+### ◈ DEVOPS & CLOUD
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,linux,nginx&theme=dark" />
 
@@ -126,9 +131,9 @@ I enjoy understanding how systems work under the hood — from API architecture 
 
 <div align="center">
 
-### `06` — AI & TOOLING
+### ◈ AI & DEVELOPER TOOLS
 
-<img src="https://skillicons.dev/icons?i=python,git,github,githubactions,grafana,prometheus,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,grafana,prometheus,postman&theme=dark" />
 
 <br/>
 
@@ -144,21 +149,20 @@ I enjoy understanding how systems work under the hood — from API architecture 
 
 <div align="center">
 
-## ◈ &nbsp; FEATURED PROJECTS
+## `03` — SELECTED PROJECTS
 
-### Selected Engineering Work
+### Engineering in action.
 
-*Real applications. Practical engineering. Continuous improvement.*
+*Real projects demonstrate real engineering.*
 
 </div>
 
 <div align="center">
 
-<a href="https://github.com/satyamsingh83840">
+<a href="https://github.com/satyamsingh83840/YOUR_PROJECT_1">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=satyamsingh83840&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true" />
 </a>
-
-<a href="https://github.com/satyamsingh83840">
+<a href="https://github.com/satyamsingh83840/YOUR_PROJECT_2">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=satyamsingh83840&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true" />
 </a>
 
@@ -168,9 +172,9 @@ I enjoy understanding how systems work under the hood — from API architecture 
 
 <div align="center">
 
-## ◈ &nbsp; GITHUB ANALYTICS
+## `04` — GITHUB ANALYTICS
 
-*Consistency, contribution, and continuous learning.*
+*Code. Contribution. Consistency.*
 
 <br/>
 
@@ -188,39 +192,57 @@ I enjoy understanding how systems work under the hood — from API architecture 
 
 <div align="center">
 
-## ◈ &nbsp; CONTRIBUTION ACTIVITY
+## `05` — CONTRIBUTION ACTIVITY
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=satyamsingh83840&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true" width="100%" />
-
-</div>
-
----
-
-<div align="center">
-
-## ◈ &nbsp; BEYOND THE CODE
-
-<img src="https://raw.githubusercontent.com/satyamsingh83840/satyamsingh83840/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
-
-</div>
-
----
-
-<div align="center">
-
-## ◈ &nbsp; LET'S BUILD SOMETHING GREAT
-
-### Open to collaboration, interesting challenges, and meaningful engineering.
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satyamsingh83840&theme=github_dark"
+  width="100%"
+  alt="GitHub Contribution Activity"
+/>
 
 <br/>
 
-<a href="mailto:satyamsingh83840@gmail.com"><img src="https://img.shields.io/badge/EMAIL-MESSAGE_ME-00D084?style=for-the-badge&logo=gmail&logoColor=black" /></a>
-<a href="https://singhsatyam.online/"><img src="https://img.shields.io/badge/WEBSITE-EXPLORE-6366F1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+### THE CONTRIBUTION SNAKE
+
+<img
+  src="https://raw.githubusercontent.com/satyamsingh83840/satyamsingh83840/output/github-contribution-grid-snake-dark.svg"
+  width="100%"
+  alt="GitHub Contribution Snake"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+## `06` — CONNECT WITH ME
+
+### Let's turn good ideas into great software.
+
+I'm always interested in meaningful collaborations, interesting engineering challenges, and opportunities to build useful products.
+
+<br/>
+
+<a href="mailto:satyamsingh83840@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-GET_IN_TOUCH-4ADE80?style=for-the-badge&logo=gmail&logoColor=black" />
+</a>
+<a href="https://singhsatyam.online/">
+<img src="https://img.shields.io/badge/PORTFOLIO-VISIT_WEBSITE-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 <br/><br/>
 
-### `THINK → BUILD → SHIP → REPEAT`
+<a href="https://www.linkedin.com/in/satyam-kumar-0a625143a/">LinkedIn</a> &nbsp; · &nbsp;
+<a href="https://x.com/devsatyam823">X / Twitter</a> &nbsp; · &nbsp;
+<a href="https://github.com/satyamsingh83840">GitHub</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:0891b2,100:064e3b&height=120&section=footer" width="100%" />
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0e7490,50:064e3b,100:030712&section=footer" width="100%" />
+
+### `THINK DEEPER. BUILD BETTER. SCALE FURTHER.`
+
+<sub>Designed & engineered by Satyam Kumar · 2026</sub>
 
 </div>
