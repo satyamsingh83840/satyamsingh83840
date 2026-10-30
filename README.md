@@ -2,12 +2,12 @@
 
 # ⚡ Satyam Kumar
 
-### Full Stack • Backend • Web3 • DevOps
+### Full Stack • Backend • Gen Ai • DevOps
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Node.js+%7C+NestJS+%7C+Go+%7C+Rust;Web3+Developer+on+Solana;DevOps+%26+Cloud+Native;AI+Agents+with+LangChain;Building+Scalable+Systems" />
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,react,nextjs,go,rust,cpp,docker,kubernetes,terraform,githubactions,grafana" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,react,nextjs,cpp,docker,kubernetes,terraform,githubactions,grafana" />
 </p>
 
 </div>
@@ -19,9 +19,7 @@
 ```bash
 → Backend-focused Full Stack Developer
 → Building scalable systems & cloud infrastructure
-→ Web3 developer using Solana + Anchor
 → Exploring AI agents & workflow automation
-→ Love Rust, Go & performance engineering
 ```
 
 ---
@@ -30,7 +28,7 @@
 
 ### 💻 Languages
 
-TypeScript • JavaScript • Go • Rust • C++
+TypeScript • JavaScript • Python
 
 ### 🌐 Frontend
 
@@ -38,15 +36,11 @@ React • Next.js • Tailwind
 
 ### ⚙ Backend
 
-Node.js • NestJS • Gin • REST APIs • WebSockets
+Node.js • NestJS •Trpc • REST APIs • WebSockets
 
 ### ☁ DevOps
 
 Docker • Kubernetes • Terraform • GitHub Actions • Grafana
-
-### ⛓ Web3
-
-Solana • Anchor • Smart Contracts
 
 ### 🤖 AI
 
